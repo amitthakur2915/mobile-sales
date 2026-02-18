@@ -27,19 +27,22 @@ The project demonstrates a real-world business intelligence workflow involving d
 - Interactive dashboards & slicers
 
 ---
-
 ## 📂 Project Structure
+
+```
 mobile-sales/
 │── README.md
 │
 ├── Dashboard/
-│ ├── MobileSales.pbix
-│ ├── Dashboard1.1.png
-│ ├── Dashboars1.2.png
-│ └── Dashboard1.3.png
+│   ├── MobileSales.pbix
+│   ├── Dashboard1.1.png
+│   ├── Dashboard1.2.png
+│   └── Dashboard1.3.png
 │
-├── Data/
-│ └── mobileSales.xlsx
+└── Data/
+    └── mobileSales.xlsx
+```
+
 
 
 ---
